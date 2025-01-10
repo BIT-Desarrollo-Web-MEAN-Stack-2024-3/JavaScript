@@ -1,17 +1,35 @@
-// En los lenguajes tradicionales 
-//     Tipos Primitivos: 
-//         - Cadenas (Strings), 
-//         - Falso/Verdadero (Booleans),
-//         - Enteros (Integer/int)
-//         - Punto decimal (Float)
-//         - Punto decimal de doble precision (Double)
-//     Tipos Complejos
-//         Estructuras de datos
-//             - Object (Objetos)
-//             - Array (vectores)
-//             - List (Listas)
+/** TIPOS DE DATOS
+ * lenguajes tradicionales (C, C++, Java, etc - Lenguajes de Tipado fuerte)
+ * Tipos Primitivos: 
+        - Caracter (Char)
+        - Cadenas (Strings), 
+        - Falso/Verdadero (Booleans),
+        - Enteros (Integer/int)
+        - Punto decimal (Float)
+        - Punto decimal de doble precision (Double)
+    Estructuras de datos
+        - Variables & Constantes
+        - Object (Objetos)
+        - Array (vectores)
+        - List (Listas)
+ */
 
-// En JavaScript
+/** TIPOS DE DATOS en JavaScript  
+       Tipos Primitivos
+        - Cadenas (Strings), 
+        - Falso/Verdadero (Booleans),
+        - Enteros, Decimales (Number)
+        - Nulos (null)
+        - Indefinido (undefined)
+        - No es un numero (NaN, Not is a Number) 
+    Tipos Complejos lenguajes tradicionales
+        - Object (Objetos)
+        - List (Listas)
+        - Functions (funciones)
+*/
+
+
+// Ejemplos de tipos de datos en JavaScript
 //      Tipos Primitivos: 
 //         - Cadenas (Strings), 
              let name = 'Juan';
@@ -32,6 +50,7 @@
              let fruits = [ 'orange', 'pinapple', 'banana', 'apple' ];
              // Indices        0           1          2        3        ....
 
+             /** Matriz o vector de dos dimensiones */
              let ticTacToe = [ 
                 [X, 0, X], 
                 [X, X, 0], 
