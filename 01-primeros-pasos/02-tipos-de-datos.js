@@ -19,6 +19,7 @@
         - Cadenas (Strings), 
         - Falso/Verdadero (Booleans),
         - Enteros, Decimales (Number)
+        - Symbol (Simbolos  - ES6)
         - Nulos (null)
         - Indefinido (undefined)
         - No es un numero (NaN, Not is a Number) 
