@@ -6,7 +6,7 @@
         // Sentencias que deseamos repetir
     }
 */
-for( let i = 10; i < 10; i = i + 1 ) {
+for( let i = 0; i < 10; i = i + 1 ) {
     console.log( 'for', i );
 }
 

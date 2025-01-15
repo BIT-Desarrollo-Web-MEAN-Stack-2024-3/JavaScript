@@ -19,4 +19,17 @@ for( let estudiante in estudiantes ) {
 /** forEach: es un metodo de las listas y sirve para hacer bucles */
 estudiantes.forEach( function( value ) {
     console.log( value );
-} );
+});
+
+/** Callback: Es una funcion a la que se le pasa como parametro otra funcion */
+
+// var nombre = 'Yalef';
+
+// Esta es una funcion
+// function ( a, b ) {
+//     console.log( a + b );
+// }
+// suma(3,6);
+
+
+
